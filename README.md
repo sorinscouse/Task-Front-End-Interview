@@ -1,3 +1,3 @@
-# Task-Front-End-Interview
+# Web-design
 
-https://sorinscouse.github.io/Task-Interview/
+https://sorinscouse.github.io/Web-design/
